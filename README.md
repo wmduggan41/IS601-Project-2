@@ -1,9 +1,9 @@
 
 
-# IS 601 - Project 2
+# IS 601 - Project 2 description
 A Test Driven Python Statistical Calculator
 
-## About
+## Project overview
 This was a calculator application built using Test Driven Development.
 
 The `Calculator` class performs a number of mathematical operations.
@@ -17,7 +17,6 @@ The test filepaths are provided in the `TestProperties` class.
 
 
 ## Screenshot(s)
-Screenshots are shown below.+
+Please refer to the screenshots file if this does not render correctly. Should have 14 tests working
 
-Below we can see that at least 7 test cases have passed:
-![Unit Tests Passed](/screenshots/7-unit-tests-passed.jpg?raw=true)
+
