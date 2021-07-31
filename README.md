@@ -1,6 +1,6 @@
+[![Build Status](https://www.travis-ci.com/wmduggan41/IS601-Project-2.svg?branch=master)](https://www.travis-ci.com/wmduggan41/IS601-Project-2)
 
-
-# IS 601 - Project 2 description
+# My Project 2 description
 A Test Driven Python Statistical Calculator
 
 ## Project overview
