@@ -18,7 +18,7 @@ The test filepaths are provided in the `TestProperties` class.
 
 ## Screenshot(s)
 
-![14 tests passing](screenshots/PASSED.png)
+![14 tests passing](screenshots/passed.PNG)
 
 
 
