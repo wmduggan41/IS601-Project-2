@@ -17,6 +17,8 @@ The test filepaths are provided in the `TestProperties` class.
 
 
 ## Screenshot(s)
-Please refer to the screenshots file if this does not render correctly. Should have 14 tests working
+
+![14 tests passing](screenshots/PASSED.png)
+
 
 
